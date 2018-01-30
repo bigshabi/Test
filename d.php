@@ -1,6 +1,8 @@
 <?php
 namespace a;
-aaaaa
+aaaaa;
+bbbbb
+ccccf
 
 asdfasdfsadf
 ghj
