@@ -1,8 +1,8 @@
 <?php
 namespace a;
-aaaaa
-hahahaha
-fafafafaf
+aaaaa;
+bbbbb
+ccccf
 
 asdfasdfsadf
 ghj
